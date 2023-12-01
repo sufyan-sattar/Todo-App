@@ -1,0 +1,12 @@
+.ul {
+    list-style: none;
+    color: rgb(0, 38, 255);
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.aaa{
+    margin: 8px;
+    align-content: center;
+}
